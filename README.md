@@ -52,3 +52,7 @@ How Naive Bayes works for text classification
 How to evaluate a classification model
 How to visualize results with a heatmap
 
+##  Output
+
+![Image](https://github.com/user-attachments/assets/f2c2828f-2ba3-4f8e-8d9c-a7bb87ffe2f6)
+![Image](https://github.com/user-attachments/assets/b1028aa7-449b-46d7-92fb-146af5122904)
