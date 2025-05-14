@@ -45,8 +45,7 @@ This project implements a **Spam Email Classifier** using Python and Scikit-lear
 
 1. Make sure you have Python installed.
 2. Install the required libraries:
- ```bash
- pip install pandas numpy matplotlib seaborn scikit-learn
+ ```bash pip install pandas numpy matplotlib seaborn scikit-learn
 
 ##***what i learn***
 
