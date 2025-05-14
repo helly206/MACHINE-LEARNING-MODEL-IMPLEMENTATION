@@ -18,7 +18,6 @@ This project implements a **Spam Email Classifier** using Python and Scikit-lear
 
 ##  Project Description
 
-`task4.py` does the following:
 - Loads an SMS dataset from a public URL
 - Preprocesses text data and converts labels
 - Vectorizes messages using CountVectorizer
