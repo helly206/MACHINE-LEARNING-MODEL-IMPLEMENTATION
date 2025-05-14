@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-# 📧 Spam Email Detection – task4.py
+# 📧 Spam Email Detection 
 
 This project implements a **Spam Email Classifier** using Python and Scikit-learn. The model is trained on SMS message data to classify messages as either **spam** or **ham** (not spam). It uses **Naive Bayes algorithm** for classification and visualizes the results with a confusion matrix.
 
@@ -44,8 +44,7 @@ This project implements a **Spam Email Classifier** using Python and Scikit-lear
 ## 🚀 How to Run
 
 1. Make sure you have Python installed.
-2. Install the required libraries:
- ```bash pip install pandas numpy matplotlib seaborn scikit-learn
+2. Install the required libraries:```bash pip install pandas numpy matplotlib seaborn scikit-learn
 
 ##***what i learn***
 
