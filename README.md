@@ -13,7 +13,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
 
 #  Spam Email Detection 
-
+***About The Project***
 This project implements a **Spam Email Classifier** using Python and Scikit-learn. The model is trained on SMS message data to classify messages as either **spam** or **ham** (not spam). It uses **Naive Bayes algorithm** for classification and visualizes the results with a confusion matrix.
 
 ##  Project Description
